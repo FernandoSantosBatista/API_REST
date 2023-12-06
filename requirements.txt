@@ -8,3 +8,8 @@ pycparser==2.21
 pytz==2023.3.post1
 sqlparse==0.4.4
 tzdata==2023.3
+django-cors-headers==4.2.0
+gunicorn==21.2.0
+packaging==23.1
+psycopg2==2.9.6
+whitenoise==6.5.0
